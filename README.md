@@ -1,8 +1,5 @@
 <h1 align='center'>Hi there 😄 It's Edward ✨</h1>
 
-<b><a href="https://github.com/Ed-Cheng/fake-reviews-generator" target="_blank" >Fake reviews generator </a></b>
-
-
 <div display="inline-block" align="center">
   <p>You can find me on</p>
   <a href="https://www.linkedin.com/in/edward-cheng-015894229/" target="_blank">
